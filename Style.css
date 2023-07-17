@@ -81,6 +81,134 @@ ul{
     font-size: xx-large;
 }
 
+/*A Propos*/
+
+#Section-A-Propos{
+    display: flex;
+    top: 30vh;
+    position: relative;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.Div-A-Propos{
+    background-color: #7389FF;
+    width: 50vh;
+    text-align: center;
+}
+.Texte-A-Propos{
+    font-size: xx-large;
+}
+
+/*Compétence*/
+
+#Section-Compétence-Ensemble{
+    display: flex;
+    top: 15vh;
+    position: relative;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #7389FF;
+}
+.Div-Comp-Ens{
+    width: 50vh;
+    text-align: center;
+}
+.Texte-Comp-Ens{
+    font-size: xx-large;
+}
+.Div-Comp-01{
+    display: flex;
+    top: 20vh;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+.Div-Comp-1{
+    background-color: #7389FF;
+    margin-right: 5vh;
+    width: 50%;
+    text-align: center;
+}
+.Texte-Comp-1{
+    font-size: x-large;
+}
+.Div-Comp-2{
+    background-color: #7389FF;
+    margin-left: 5vh;
+    width: 50%;
+    text-align: center;
+}
+.Texte-Comp-2{
+    font-size: x-large;
+}
+.Div-Comp-02{
+    display: flex;
+    top: 25vh;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+.Div-Comp-3{
+    background-color: #7389FF;
+    margin-right: 5vh;
+    width: 50%;
+    text-align: center;
+}
+.Texte-Comp-3{
+    font-size: x-large;
+}
+.Div-Comp-4{
+    background-color: #7389FF;
+    margin-left: 5vh;
+    width: 50%;
+    text-align: center;
+}
+.Texte-Comp-4{
+    font-size: x-large;
+}
+
+/*Project*/
+
+#Section-Project{
+    display: flex;
+    top: 15vh;
+    background-color: #7389FF;
+    position: relative;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.Div-Project{
+    width: 50vh;
+    text-align: center;
+}
+.Texte-Project{
+    font-size: xx-large;
+}
+#Div-Project-Gen-1{
+    display: flex;
+    top: 20vh;
+    width: 100%;
+    position: relative;
+    align-items: center;
+    align-content: center;
+}
+.Div-Project-1{
+    background-color: #7389FF;
+    width: 50vh;
+    height: 20vh;
+    text-align: center;
+}
+.Texte-Project-1{
+    font-size: x-large;
+}
+
 /*Footer*/
 
 footer{
